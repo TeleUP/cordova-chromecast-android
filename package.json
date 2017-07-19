@@ -1,0 +1,22 @@
+{
+  "name": "chromecast2",
+  "version": "1.0.0",
+  "description": "Chromecast plugin for Cordova\r ==================",
+  "main": "EventEmitter.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbabanov/cordova-chromecast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbabanov/cordova-chromecast/issues"
+  },
+  "homepage": "https://github.com/nbabanov/cordova-chromecast#readme"
+}

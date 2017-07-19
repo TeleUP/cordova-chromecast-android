@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<plugin xmlns="http://phonegap.com/ns/plugins/1.0"
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        id="acidhax.cordova.chromecast"
-        version="0.0.1-alpha">
-  <engines>
-    <engine name="cordova" version=">=3.4.0" />
-  </engines>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-chromecast-android" version="1.0.0">
 
-  <name>Cordova ChromeCast</name>
+  <name>Cordova ChromeCast Android</name>
 
   <platform name="android">
 

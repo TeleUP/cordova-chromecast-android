@@ -1,22 +1,25 @@
 {
-  "name": "chromecast2",
+  "name": "cordova-chromecast-android",
   "version": "1.0.0",
-  "description": "Chromecast plugin for Cordova\r ==================",
-  "main": "EventEmitter.js",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Chromecast plugin for Cordova ==================",
+  "cordova": {
+    "id": "cordova-chromecast-android",
+    "platforms": [
+      "android"
+    ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbabanov/cordova-chromecast.git"
+    "url": "git+https://github.com/TeleUP/cordova-chromecast-android.git"
   },
-  "author": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "teleup",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nbabanov/cordova-chromecast/issues"
+    "url": "https://github.com/TeleUP/cordova-chromecast-android/issues"
   },
-  "homepage": "https://github.com/nbabanov/cordova-chromecast#readme"
+  "homepage": "https://github.com/TeleUP/cordova-chromecast-android#readme"
 }
